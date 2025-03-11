@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3e80c90b499fe2d48b60635af8862608, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 0ceaaf8622f7ab249a9634ecbd6c3238, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: d7635d040a597124ab56be78a0497586, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 6a208ebb613f95e429f6c16045474c66, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cdaaf064640774f40b6f1a401461b3b2, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 1ec3ea1ec96e2ac44a09013b5c19f958, type: 2}
